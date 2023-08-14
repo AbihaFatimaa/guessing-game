@@ -1,4 +1,3 @@
-# Write your code here :-)
 secret_number = 7
 print('hint: it is a number')
 guess_count = 0
